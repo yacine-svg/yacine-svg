@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://novawebdz.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-novawebdz.vercel.app-3B82F6?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://novawebdz.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohammed-yassine-sekhri-56b082343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://roadmap.sh/u/sekhriyassine"><img src="https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="roadmap.sh" /></a>
 </p>
@@ -19,7 +19,7 @@
 ## 👨‍💻 About me
 
 - 🎓 MSc student in **Artificial Intelligence & Data Science**, Constantine, Algeria
-- 💼 Freelance web designer & developer, building sites for local businesses under **[Nova Web Dz](https://novawebdz.vercel.app/)**
+- 💼 Freelance web designer & developer, building sites for local businesses under **[Nova Web Dz](https://www.instagram.com/nova_webdz/)**
 - 🧠 Building AI/ML systems and full-stack web applications
 - 🎮 Open-source tinkering, including [OmniPad-PS5](https://github.com/diegobarbosaa/OmniPad-PS5) (bridging an Xbox 360 controller to PS5)
 - 🌱 Currently exploring agentic AI, LLM evaluation and IoT with Python
