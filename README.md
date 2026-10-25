@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammed%20Yassine%20Sekhri&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20AI%20%26%20Data%20Science&descAlignY=58&descSize=18" alt="Header" width="100%" />
+<img src="banner.png" alt="Mohammed Yassine Sekhri" width="100%" />
 
 <a href="https://novawebdz.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-stack+developer+%E2%80%A2+Next.js+%C2%B7+React+%C2%B7+Django;AI+%26+Data+Science+student+%E2%80%A2+MSc+in+Constantine;Freelance+web+designer+%E2%80%A2+Nova+Web+Dz" alt="Typing SVG" />
@@ -109,6 +109,5 @@
 
 ⭐ Thanks for stopping by. Feel free to open an issue or reach out!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=fadeIn" alt="Footer" width="100%" />
 
 </div>
