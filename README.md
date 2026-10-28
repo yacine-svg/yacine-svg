@@ -2,12 +2,12 @@
 
 <img src="banner.png" alt="Mohammed Yassine Sekhri" width="100%" />
 
-<a href="https://novawebdz.vercel.app/">
+<a href="https://yassine-sekhri.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-stack+developer+%E2%80%A2+Next.js+%C2%B7+React+%C2%B7+Django;AI+%26+Data+Science+student+%E2%80%A2+MSc+in+Constantine;Freelance+web+designer+%E2%80%A2+Nova+Web+Dz" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://novawebdz.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://yassine-sekhri.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohammed-yassine-sekhri-56b082343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://roadmap.sh/u/sekhriyassine"><img src="https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="roadmap.sh" /></a>
 </p>
@@ -71,7 +71,7 @@
 | --- | --- | --- | --- |
 | **Classe SVT** | Learning platform for a high-school science teacher: courses, quizzes, homework, exams, student logins, chatbot | Next.js, Vercel | [classe-svt.vercel.app](https://classe-svt.vercel.app/) |
 | **NextGen Languages** | Website for a language school and IELTS prep | Next.js, Vercel | [nextgen-languages.vercel.app](https://nextgen-languages.vercel.app/) |
-| **Personal portfolio** | Sekhri Mohammed Yassine Portfolio: a 3D night street in Algiers showcasing my client sites | Next.js, TypeScript | [novawebdz.vercel.app](https://novawebdz.vercel.app/) |
+| **Personal portfolio** | Sekhri Mohammed Yassine Portfolio: a 3D night street in Algiers showcasing my client sites | Next.js, TypeScript | [yassine-sekhri.vercel.app](https://yassine-sekhri.vercel.app/) |
 | **Agentic video summarizer** | AI system that detects important scenes and builds summaries tailored to the user | Python, LLMs | Private repo, available on request |
 | **Flower Classifier** | Deep-learning image classifier for flower species | Python, PyTorch | Private repo, available on request |
 | **AeroScan** | Scanning and detection project | Python | Private repo, available on request |
@@ -93,7 +93,7 @@
 ## 📫 Let's connect
 
 <p align="left">
-  <a href="https://novawebdz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://yassine-sekhri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohammed-yassine-sekhri-56b082343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://roadmap.sh/u/sekhriyassine"><img src="https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="roadmap.sh" /></a>
 </p>
