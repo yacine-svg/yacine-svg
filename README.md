@@ -71,7 +71,7 @@
 | --- | --- | --- | --- |
 | **Classe SVT** | Learning platform for a high-school science teacher: courses, quizzes, homework, exams, student logins, chatbot | Next.js, Vercel | [classe-svt.vercel.app](https://classe-svt.vercel.app/) |
 | **NextGen Languages** | Website for a language school and IELTS prep | Next.js, Vercel | [nextgen-languages.vercel.app](https://nextgen-languages.vercel.app/) |
-| **Personal portfolio** | My portfolio and Nova Web Dz hub | Next.js, TypeScript | [novawebdz.vercel.app](https://novawebdz.vercel.app/) |
+| **Personal portfolio** | Sekhri Mohammed Yassine Portfolio: a 3D night street in Algiers showcasing my client sites | Next.js, TypeScript | [novawebdz.vercel.app](https://novawebdz.vercel.app/) |
 | **Agentic video summarizer** | AI system that detects important scenes and builds summaries tailored to the user | Python, LLMs | Private repo, available on request |
 | **Flower Classifier** | Deep-learning image classifier for flower species | Python, PyTorch | Private repo, available on request |
 | **AeroScan** | Scanning and detection project | Python | Private repo, available on request |
