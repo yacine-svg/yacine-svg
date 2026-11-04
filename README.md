@@ -85,7 +85,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yacine-svg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
 </p>
 
 
